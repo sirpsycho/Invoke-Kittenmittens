@@ -1,4 +1,4 @@
-function Invoke-Kittenmittens
+function ik
 {
 
 [CmdletBinding(DefaultParameterSetName="DC")]
