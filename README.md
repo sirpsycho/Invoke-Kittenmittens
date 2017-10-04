@@ -1,5 +1,5 @@
 # Invoke-Kittenmittens
-Modified "Invoke-Mimikatz" to avoid AV detection
+Quickly and quietly dump creds
 
 ```
                                      |-\
